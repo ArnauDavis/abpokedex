@@ -20,7 +20,7 @@ body {
 }
 
 #pType, #pType2{
-    height: 20px;
+    height: 16px;
     width: 70px;
     border-radius: 5px;
 }
@@ -130,7 +130,7 @@ audio{
 
 
 .pokeName {
-    width: 260px;
+    width: 300px;
     margin: 0 auto;
     margin-bottom: 5px;
 }
@@ -163,12 +163,12 @@ audio{
     
     width: 220px;
     height: 115px;
-    margin-top: -28px;
-    padding-left: 10px;
+    margin-top: -35px;
+    padding-left: 5px;
     background-color: white;
     border-radius: 15px;
     border: 3px solid black;
-    text-align: center;
+    text-align: left;
 }
 .pokeDes{
     color: #757575;
@@ -178,5 +178,6 @@ audio{
     
     width: fit-content
 }
+
 
 
