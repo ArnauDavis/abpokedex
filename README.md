@@ -31,5 +31,5 @@ The audio also is returned in a format that is not accessible to apple products.
 
 ## Lessons Learned:
 
-I have so much for confidence making api calls now. I learned about extracting data from the calls and really diving deep using . notation and []. I got to see a little bit more about using JavaScript to interact with not just my HTML but my CSS as well. I also 
+I have so much more confidence making api calls now. I learned about extracting data from the calls and really diving deep using . notation and []. I got to see a little bit more about using JavaScript to interact with not just my HTML but my CSS as well. I also 
 used this app on different devices to actually get some testing about what it would be like on different devices. The format of the pokedex takes all these different devices into account.
