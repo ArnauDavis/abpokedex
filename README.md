@@ -3,6 +3,10 @@ This is a pokedex that makes api calls to the pokeapi! See images, type, a littl
 
 **Link to project:** https://abpokedex.netlify.app/
 
+<div style="height: 200px; overflow: hidden;">
+    <img src="poke-gif.gif" style="height: auto; width: 100%; object-fit: cover; transform: translateY(-30px);" alt="shadow-gif"/>
+</div>
+
 
 ## How It's Made:
 
