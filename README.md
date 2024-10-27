@@ -1,5 +1,5 @@
-# A pokedex
-This is a pokedex that makes api calls to the pokeapi! See images, type, a little description, and even hear their cry!
+# A pokédex
+This is a pokédex that makes api calls to the pokeapi! See images, type, a little description, and even hear their cry!
 
 **Link to project:** https://abpokedex.netlify.app/
 
